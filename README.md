@@ -17,7 +17,7 @@ Stochastic Gradient Descent (SGD): Updates the model parameters using a single d
 
 # Installation
 To use the code in this repository, you need to have Python installed along with the following libraries:
-NumPy
-Pandas 
-Matplotlib
+NumPy,
+Pandas, 
+Matplotlib,
 sklearn
